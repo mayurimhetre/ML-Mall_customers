@@ -1,4 +1,9 @@
-# ML-Mall_customers using K-Means Clustering and the Elbow Method
+# Mall_customers using K-Means Clustering and the Elbow Method
+
+### Dataset
+The Mall customers dataset contains information about people visiting the mall. The dataset has gender, customer id, age, annual income, and spending score. It collects insights from the data and group customers based on their behaviors
+
+### Techniques
 
 This repository explains the basics of **K-Means clustering** and how the **Elbow method** helps choose the optimal number of clusters in a dataset.
 
